@@ -12,6 +12,8 @@ app.use(cors({
     'http://localhost:3000',
     'http://localhost:8080',
     'http://localhost:64355',
+    'https://joanexsurya.web.app'
+    'https://joanexsurya.firebaseapp.com'
     /http:\/\/localhost:\d+/
   ],
   credentials: true
